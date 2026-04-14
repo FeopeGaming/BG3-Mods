@@ -1,0 +1,11 @@
+The BG3 Mod Manager needs the PAK file to work
+
+Custom mods are made by Nate
+
+Nexus Mods are mods not found in game
+
+Here is a list of mods that are too large to be added to GitHub but are found at Nexus mod site:
+
+1. DarkUrgeTwEEaks
+2. EA-Restored
+3. Vivid Landscape AiO
